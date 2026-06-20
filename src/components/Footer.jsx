@@ -32,20 +32,20 @@ const Footer = () => {
           <div className="footer-col">
             <h4>Connect</h4>
             <ul>
-              <li><a href="#">LinkedIn</a></li>
-              <li><a href="#">Facebook</a></li>
-              <li><a href="#">Instagram</a></li>
-              <li><a href="#">Behance</a></li>
-              <li><a href="#">GitHub</a></li>
+              <li><a href="https://tutwonders.com">LinkedIn</a></li>
+              <li><a href="https://tutwonders.com">Facebook</a></li>
+              <li><a href="https://tutwonders.com">Instagram</a></li>
+              <li><a href="https://tutwonders.com">Behance</a></li>
+              <li><a href="https://tutwonders.com">GitHub</a></li>
             </ul>
           </div>
         </div>
         <div className="footer-bottom">
           <p>© 2024 Tut Wonders. All rights reserved.</p>
           <div className="footer-socials">
-            <a href="#" title="LinkedIn">in</a>
-            <a href="#" title="Facebook">f</a>
-            <a href="#" title="Instagram">ig</a>
+            <a href="https://tutwonders.com" title="LinkedIn">in</a>
+            <a href="https://tutwonders.com" title="Facebook">f</a>
+            <a href="https://tutwonders.com" title="Instagram">ig</a>
           </div>
         </div>
       </div>
