@@ -45,7 +45,7 @@ const Footer = () => {
           <div className="footer-socials">
             <a href="https://tutwonders.com" title="LinkedIn">in</a>
             <a href="https://tutwonders.com" title="Facebook">f</a>
-            <a href="https://tutwonders.com" title="Instagram">ig</a>
+            <a href="https://www.instagram.com/tutwonders/" title="Instagram">ig</a>
           </div>
         </div>
       </div>
