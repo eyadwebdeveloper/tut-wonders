@@ -1,0 +1,343 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "process": "Process",
+    "technologies": "Technologies",
+    "careers": "Careers",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "eyebrow": "Digital Excellence From Egypt To The World",
+    "title": "Turning Ideas",
+    "titleAccent": "Into Digital",
+    "titleEnd": "Reality",
+    "description": "Mobile applications, websites, AI solutions, and digital experiences — crafted with precision and built to grow your business.",
+    "cta": "Start Your Project",
+    "viewWork": "View Our Work"
+  },
+  "brand": {
+    "items": ["Web Development", "Mobile Apps", "UI/UX Design", "E-Commerce", "Digital Strategy", "Maintenance", "React", "Flutter", "Laravel"]
+  },
+  "services": {
+    "label": "What We Do",
+    "title": "Services That",
+    "titleEnd": "Move The Needle",
+    "subtitle": "From strategy to launch, we deliver digital products built for performance, scale, and lasting impact. Every pixel. Every interaction. Every line of code.",
+    "items": {
+      "web": {
+        "title": "Web Development",
+        "desc": "High-performance websites and web apps built with modern frameworks. Fast, secure, and scalable solutions tailored to your business needs."
+      },
+      "mobile": {
+        "title": "Mobile Apps",
+        "desc": "Native and cross-platform mobile applications for iOS and Android. Smooth, intuitive, and built to delight users from the first tap."
+      },
+      "design": {
+        "title": "UI/UX Design",
+        "desc": "User-centered interfaces that balance beauty and function. We design experiences that feel effortless and convert visitors into customers."
+      },
+      "ai": {
+        "title": "AI Solutions",
+        "desc": "Intelligent automation, smart systems, and AI-powered features that streamline operations and unlock new possibilities for your business."
+      },
+      "custom": {
+        "title": "Custom Software",
+        "desc": "Tailored software solutions built around your exact workflows. From internal tools to full platforms — engineered for scale and longevity."
+      },
+      "strategy": {
+        "title": "Digital Transformation",
+        "desc": "Roadmaps, audits, and digital transformation consulting. We help you make confident decisions about your technology investments."
+      },
+      "ecommerce": {
+        "title": "E-Commerce",
+        "desc": "Online stores built to sell. We build and optimize e-commerce platforms for conversions, performance, and seamless checkout flows."
+      },
+      "shield": {
+        "title": "Maintenance & Support",
+        "desc": "Your product needs ongoing care. We offer proactive monitoring, updates, and technical support so your digital presence always performs."
+      }
+    }
+  },
+  "why": {
+    "label": "Why Tut Wonders",
+    "title": "Crafted With Purpose,",
+    "titleEnd": "Delivered With Pride",
+    "stats": {
+      "years": "Years Building Digital Excellence",
+      "projects": "Projects Delivered",
+      "techs": "Technologies",
+      "custom": "Custom Solutions",
+      "location": "Egypt Based · Remote Worldwide"
+    },
+    "features": {
+      "innovation": {
+        "title": "Innovation First",
+        "desc": "We stay ahead of the curve — integrating AI, modern frameworks, and emerging tech to give your product a genuine competitive edge."
+      },
+      "accessibility": {
+        "title": "Accessibility Built In",
+        "desc": "Technology should serve everyone. Accessibility and inclusive design are core to every product we build — not an afterthought."
+      },
+      "ux": {
+        "title": "User Experience",
+        "desc": "Beautiful interfaces that actually convert. We design for real humans — mapping every touchpoint to delight, clarity, and action."
+      },
+      "scalability": {
+        "title": "Scalability & Performance",
+        "desc": "Code architecture that grows with you. Speed, reliability, and clean structure built from day one — ready for your next 10x."
+      }
+    },
+    "founder": {
+      "quote": "I believe that technology should do more than power businesses — it should solve meaningful problems and create lasting impact. That belief is what drives everything we build at Tut Wonders.",
+      "name": "Michael Fathy",
+      "title": "CEO & Founder, Tut Wonders"
+    }
+  },
+  "process": {
+    "label": "How We Work",
+    "title": "From Idea to Launch,",
+    "titleEnd": "Step by Step",
+    "subtitle": "A transparent, collaborative process designed to get your project right — the first time.",
+    "steps": {
+      "discovery": {
+        "title": "Discovery",
+        "desc": "We listen deeply to understand your goals, users, and constraints. The right brief shapes everything that follows."
+      },
+      "strategy": {
+        "title": "Strategy & Design",
+        "desc": "Wireframes, prototypes, and a visual direction that aligns your brand with user needs."
+      },
+      "development": {
+        "title": "Development",
+        "desc": "Clean, scalable code. Agile sprints with regular check-ins so you're always in the loop."
+      },
+      "testing": {
+        "title": "Testing & QA",
+        "desc": "Cross-device testing, performance audits, and security checks before anything goes live."
+      },
+      "launch": {
+        "title": "Launch & Grow",
+        "desc": "Smooth deployment, onboarding support, and ongoing maintenance to keep you ahead."
+      }
+    }
+  },
+  "stack": {
+    "label": "Technologies",
+    "title": "Built With The Best Tools"
+  },
+  "testimonials": {
+    "label": "Client Stories",
+    "title": "What Our Clients Say",
+    "items": [
+      {
+        "text": "Tut Wonders transformed our digital presence completely. The website they built is fast, beautiful, and our conversions have doubled since launch.",
+        "name": "Sara El-Sayed",
+        "role": "CEO, Cairo Startup"
+      },
+      {
+        "text": "Professional team with real attention to detail. Our mobile app was delivered on time and the code quality is excellent.",
+        "name": "Mohammed Ali",
+        "role": "Product Manager, Tech Co."
+      },
+      {
+        "text": "They understood our brand from the very first call. The UI/UX work they delivered felt like magic — our users love it.",
+        "name": "Lina Karim",
+        "role": "Founder, Fashion Brand"
+      },
+      {
+        "text": "Outstanding communication throughout the project. They gave us honest advice and pushed back when our ideas weren't optimal. That's rare.",
+        "name": "Ahmed Farouk",
+        "role": "Director, E-Commerce Store"
+      },
+      {
+        "text": "The maintenance plan they set up has saved us countless hours. Issues get resolved before we even notice them.",
+        "name": "Yasmine Nasser",
+        "role": "COO, Media Agency"
+      },
+      {
+        "text": "Highly skilled developers who actually care about your business outcome, not just completing the scope. A true partner.",
+        "name": "Omar Hassan",
+        "role": "Entrepreneur"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Build Something Extraordinary?",
+    "subtitle": "Let's turn your vision into a digital wonder.",
+    "button": "Start Your Project"
+  },
+  "apply": {
+    "badge": "Careers at Tut Wonders",
+    "title": "Build the Future",
+    "titleEnd": "With Us",
+    "subtitle": "We're looking for talented people who love what they do. If that's you, tell us about yourself.",
+    "sidebar": {
+      "perks": {
+        "flexible": {
+          "title": "Flexible Working Hours",
+          "desc": "Remote-first culture with async communication and flexible schedules."
+        },
+        "impact": {
+          "title": "Real Projects, Real Impact",
+          "desc": "Ship products used by thousands — not side exercises or fake demos."
+        },
+        "team": {
+          "title": "Collaborative Team",
+          "desc": "Work alongside designers, developers, and strategists who care about craft."
+        }
+      },
+      "roles": "Open Positions"
+    },
+    "form": {
+      "title": "Application Form",
+      "sections": {
+        "personal": "Personal Details",
+        "role": "Role & Experience",
+        "attachments": "Attachments"
+      },
+      "fields": {
+        "firstName": {
+          "label": "First Name",
+          "placeholder": "Ahmed"
+        },
+        "lastName": {
+          "label": "Last Name",
+          "placeholder": "Mohamed"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "you@example.com"
+        },
+        "phone": {
+          "label": "Phone / WhatsApp",
+          "placeholder": "+20 10 1234 5678"
+        },
+        "role": {
+          "label": "Position Applied For",
+          "placeholder": "Select a role…"
+        },
+        "expertOrTrainer": {
+          "label": "Expert or Trainer?",
+          "placeholder": "Select one…",
+          "options": ["Expert", "Trainer", "Both (Expert & Trainer)"]
+        },
+        "portfolio": {
+          "label": "Portfolio / GitHub",
+          "placeholder": "https://github.com/…"
+        },
+        "linkedin": {
+          "label": "LinkedIn Profile",
+          "placeholder": "https://linkedin.com/in/…"
+        },
+        "summary": {
+          "label": "Professional Summary",
+          "placeholder": "Tell us about your experience, skills, and what you bring to the team…"
+        }
+      },
+      "roles": [
+        "Web Developer (Full-Stack)",
+        "Web Developer (Front-End)",
+        "Web Developer (Back-End)",
+        "App Developer",
+        "Social Media",
+        "Marketing",
+        "Penetration Tester (Cyber Security)",
+        "Graphic Designer",
+        "UI/UX Designer",
+        "Sales"
+      ],
+      "notice": {
+        "title": "After submitting, you'll be asked to email your",
+        "cv": "CV",
+        "and": "and",
+        "id": "National ID (front & back)",
+        "to": "to",
+        "extra": "We'll give you a pre-filled email draft — one click to send. (please send from your email in cv and include any additional notes in the email body)"
+      },
+      "submit": "Submit Application",
+      "success": {
+        "title": "Application Received",
+        "message": "Thank you, {name}! Your application has been submitted. Expect a reply within 3–5 business days.",
+        "filesTitle": "One last step — send your files",
+        "filesMessage": "Please email your <strong>CV / Resume</strong> and <strong>National ID (front & back)</strong> to us. Use your ref code as the subject so we can match it to your application.",
+        "subject": "Application Files – {ref}",
+        "button": "Open Email Draft",
+        "ref": "Ref: {ref}"
+      },
+      "errors": {
+        "required": "Required",
+        "email": "Valid email required",
+        "phone": "Valid phone required",
+        "role": "Please select a role",
+        "expertOrTrainer": "Please select Expert or Trainer",
+        "summary": "Please write at least 60 characters"
+      },
+      "charCount": "{count} / 60+ chars"
+    }
+  },
+  "contact": {
+    "label": "Get In Touch",
+    "title": "We'd Love to",
+    "titleEnd": "Hear from You",
+    "subtitle": "Have a question, a quick thought, or just want to say hello? Drop us a message and we'll get back to you within one business day.",
+    "info": {
+      "location": "Location",
+      "locationValue": "Egypt · Remote Worldwide",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "Eyad Ashraf",
+      "email": "Email Address",
+      "emailPlaceholder": "you@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What's this about?",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here…",
+      "submit": "Send Message",
+      "sending": "Sending…",
+      "sent": "✓ Message Sent!",
+      "projectPrompt": "Starting a new project?",
+      "projectLink": "Use our Project Assistant instead →"
+    }
+  },
+  "footer": {
+    "description": "Digital solutions built with the precision of ancient craftsmen and the power of modern technology. From Egypt, for the world.",
+    "services": "Services",
+    "company": "Company",
+    "connect": "Connect",
+    "rights": "All rights reserved."
+  },
+  "bot": {
+    "toggle": "Start a Project",
+    "header": "Tut Wonders Project Assistant",
+    "status": "Online · Replies instantly",
+    "placeholder": "Type your message…",
+    "send": "Send",
+    "welcome": "Hi there! 👋 Welcome to Tut Wonders. I'm here to help you kick off your project — I'll ask you a few questions so our team can put together a tailored proposal for you. To start, what's your name?",
+    "chips": {
+      "idea": "I have a project idea",
+      "website": "I need a website",
+      "app": "I need a mobile app"
+    },
+    "confirm": {
+      "title": "Here's your project brief. Ready to send it to the team?",
+      "brief": "Project Brief",
+      "send": "✓ Send to Tut Wonders",
+      "edit": "Edit"
+    },
+    "success": "Your project brief has been sent to the Tut Wonders team! 🎉 We'll review your {service} inquiry and get back to you within 24 hours. We look forward to building something great together.",
+    "error": "Apologies, I hit a snag. Please check your API key configuration or try again in a moment."
+  },
+  "language": {
+    "select": "Language",
+    "en": "English",
+    "ar": "العربية",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ru": "Русский"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "À propos",
+    "process": "Processus",
+    "technologies": "Technologies",
+    "careers": "Carrières",
+    "getStarted": "Commencer"
+  },
+  "hero": {
+    "eyebrow": "L'excellence numérique d'Égypte vers le monde",
+    "title": "Transformer les idées",
+    "titleAccent": "En réalité",
+    "titleEnd": "numérique",
+    "description": "Applications mobiles, sites web, solutions d'IA et expériences numériques — conçues avec précision et construites pour développer votre entreprise.",
+    "cta": "Démarrer votre projet",
+    "viewWork": "Voir nos réalisations"
+  },
+  "brand": {
+    "items": ["Développement Web", "Applications Mobiles", "Design UI/UX", "E-Commerce", "Stratégie Digitale", "Maintenance", "React", "Flutter", "Laravel"]
+  },
+  "services": {
+    "label": "Ce que nous faisons",
+    "title": "Des services qui",
+    "titleEnd": "font la différence",
+    "subtitle": "De la stratégie au lancement, nous livrons des produits numériques construits pour la performance, l'évolutivité et un impact durable. Chaque pixel. Chaque interaction. Chaque ligne de code.",
+    "items": {
+      "web": {
+        "title": "Développement Web",
+        "desc": "Sites web et applications web haute performance construits avec des frameworks modernes. Des solutions rapides, sécurisées et évolutives adaptées à vos besoins."
+      },
+      "mobile": {
+        "title": "Applications Mobiles",
+        "desc": "Applications mobiles natives et multiplateformes pour iOS et Android. Fluides, intuitives et conçues pour ravir les utilisateurs dès le premier contact."
+      },
+      "design": {
+        "title": "Design UI/UX",
+        "desc": "Interfaces centrées sur l'utilisateur qui équilibrent beauté et fonctionnalité. Nous concevons des expériences qui semblent naturelles et convertissent les visiteurs en clients."
+      },
+      "ai": {
+        "title": "Solutions IA",
+        "desc": "Automatisation intelligente, systèmes intelligents et fonctionnalités alimentées par l'IA qui rationalisent les opérations et débloquent de nouvelles possibilités pour votre entreprise."
+      },
+      "custom": {
+        "title": "Logiciels sur Mesure",
+        "desc": "Solutions logicielles adaptées à vos workflows exacts. Des outils internes aux plateformes complètes — conçues pour l'évolutivité et la longévité."
+      },
+      "strategy": {
+        "title": "Transformation Digitale",
+        "desc": "Feuilles de route, audits et conseil en transformation digitale. Nous vous aidons à prendre des décisions éclairées sur vos investissements technologiques."
+      },
+      "ecommerce": {
+        "title": "E-Commerce",
+        "desc": "Boutiques en ligne conçues pour vendre. Nous construisons et optimisons des plateformes e-commerce pour les conversions, la performance et des parcours d'achat fluides."
+      },
+      "shield": {
+        "title": "Maintenance & Support",
+        "desc": "Votre produit a besoin de soins continus. Nous offrons une surveillance proactive, des mises à jour et un support technique pour que votre présence numérique soit toujours performante."
+      }
+    }
+  },
+  "why": {
+    "label": "Pourquoi Tut Wonders",
+    "title": "Conçu avec un objectif,",
+    "titleEnd": "Livré avec fierté",
+    "stats": {
+      "years": "Années à bâtir l'excellence numérique",
+      "projects": "Projets livrés",
+      "techs": "Technologies",
+      "custom": "Solutions sur mesure",
+      "location": "Basé en Égypte · À distance dans le monde"
+    },
+    "features": {
+      "innovation": {
+        "title": "L'innovation d'abord",
+        "desc": "Nous restons en avance sur la courbe — intégrant l'IA, les frameworks modernes et les technologies émergentes pour donner à votre produit un avantage compétitif réel."
+      },
+      "accessibility": {
+        "title": "Accessibilité intégrée",
+        "desc": "La technologie doit servir tout le monde. L'accessibilité et le design inclusif sont au cœur de chaque produit que nous construisons — pas une réflexion après coup."
+      },
+      "ux": {
+        "title": "Expérience Utilisateur",
+        "desc": "Des interfaces magnifiques qui convertissent vraiment. Nous concevons pour de vrais humains — en cartographiant chaque point de contact pour la joie, la clarté et l'action."
+      },
+      "scalability": {
+        "title": "Évolutivité & Performance",
+        "desc": "Une architecture de code qui grandit avec vous. Vitesse, fiabilité et structure propre dès le premier jour — prête pour votre prochain 10x."
+      }
+    },
+    "founder": {
+      "quote": "Je crois que la technologie devrait faire plus que simplement alimenter les entreprises — elle devrait résoudre des problèmes significatifs et créer un impact durable. Cette conviction est ce qui motive tout ce que nous construisons chez Tut Wonders.",
+      "name": "Michael Fathy",
+      "title": "PDG & Fondateur, Tut Wonders"
+    }
+  },
+  "process": {
+    "label": "Comment nous travaillons",
+    "title": "De l'idée au lancement,",
+    "titleEnd": "Étape par étape",
+    "subtitle": "Un processus transparent et collaboratif conçu pour réussir votre projet — du premier coup.",
+    "steps": {
+      "discovery": {
+        "title": "Découverte",
+        "desc": "Nous écoutons profondément pour comprendre vos objectifs, vos utilisateurs et vos contraintes. Le bon briefing façonne tout ce qui suit."
+      },
+      "strategy": {
+        "title": "Stratégie & Design",
+        "desc": "Wireframes, prototypes et une direction visuelle qui aligne votre marque avec les besoins des utilisateurs."
+      },
+      "development": {
+        "title": "Développement",
+        "desc": "Code propre et évolutif. Sprints agiles avec des points de contrôle réguliers pour que vous soyez toujours informé."
+      },
+      "testing": {
+        "title": "Tests & Assurance Qualité",
+        "desc": "Tests multi-appareils, audits de performance et contrôles de sécurité avant tout lancement."
+      },
+      "launch": {
+        "title": "Lancement & Croissance",
+        "desc": "Déploiement fluide, support d'intégration et maintenance continue pour vous garder en avance."
+      }
+    }
+  },
+  "stack": {
+    "label": "Technologies",
+    "title": "Construit avec les meilleurs outils"
+  },
+  "testimonials": {
+    "label": "Témoignages clients",
+    "title": "Ce que nos clients disent",
+    "items": [
+      {
+        "text": "Tut Wonders a complètement transformé notre présence numérique. Le site qu'ils ont construit est rapide, magnifique, et nos conversions ont doublé depuis le lancement.",
+        "name": "Sara El-Sayed",
+        "role": "PDG, Startup du Caire"
+      },
+      {
+        "text": "Une équipe professionnelle avec une réelle attention aux détails. Notre application mobile a été livrée à temps et la qualité du code est excellente.",
+        "name": "Mohammed Ali",
+        "role": "Chef de produit, Société Tech"
+      },
+      {
+        "text": "Ils ont compris notre marque dès le premier appel. Le travail de design UI/UX qu'ils ont livré était comme de la magie — nos utilisateurs l'adorent.",
+        "name": "Lina Karim",
+        "role": "Fondatrice, Marque de Mode"
+      },
+      {
+        "text": "Une communication exceptionnelle tout au long du projet. Ils nous ont donné des conseils honnêtes et ont résisté quand nos idées n'étaient pas optimales. C'est rare.",
+        "name": "Ahmed Farouk",
+        "role": "Directeur, Boutique E-Commerce"
+      },
+      {
+        "text": "Le plan de maintenance qu'ils ont mis en place nous a fait gagner d'innombrables heures. Les problèmes sont résolus avant même que nous les remarquions.",
+        "name": "Yasmine Nasser",
+        "role": "COO, Agence Média"
+      },
+      {
+        "text": "Des développeurs hautement qualifiés qui se soucient vraiment de votre résultat commercial, pas seulement de l'exécution du périmètre. Un véritable partenaire.",
+        "name": "Omar Hassan",
+        "role": "Entrepreneur"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à construire quelque chose d'extraordinaire ?",
+    "subtitle": "Transformons votre vision en une merveille numérique.",
+    "button": "Démarrer votre projet"
+  },
+  "apply": {
+    "badge": "Carrières chez Tut Wonders",
+    "title": "Construisez le futur",
+    "titleEnd": "Avec nous",
+    "subtitle": "Nous recherchons des personnes talentueuses qui aiment ce qu'elles font. Si c'est vous, parlez-nous de vous.",
+    "sidebar": {
+      "perks": {
+        "flexible": {
+          "title": "Horaires flexibles",
+          "desc": "Culture remote-first avec communication asynchrone et horaires flexibles."
+        },
+        "impact": {
+          "title": "Projets réels, impact réel",
+          "desc": "Lancez des produits utilisés par des milliers de personnes — pas des exercices secondaires ou des démos factices."
+        },
+        "team": {
+          "title": "Équipe collaborative",
+          "desc": "Travaillez aux côtés de designers, développeurs et stratèges qui se soucient du savoir-faire."
+        }
+      },
+      "roles": "Postes ouverts"
+    },
+    "form": {
+      "title": "Formulaire de candidature",
+      "sections": {
+        "personal": "Coordonnées personnelles",
+        "role": "Rôle et expérience",
+        "attachments": "Pièces jointes"
+      },
+      "fields": {
+        "firstName": {
+          "label": "Prénom",
+          "placeholder": "Ahmed"
+        },
+        "lastName": {
+          "label": "Nom",
+          "placeholder": "Mohamed"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "vous@exemple.com"
+        },
+        "phone": {
+          "label": "Téléphone / WhatsApp",
+          "placeholder": "+20 10 1234 5678"
+        },
+        "role": {
+          "label": "Poste recherché",
+          "placeholder": "Sélectionnez un rôle…"
+        },
+        "expertOrTrainer": {
+          "label": "Expert ou Formateur ?",
+          "placeholder": "Choisissez…",
+          "options": ["Expert", "Formateur", "Les deux (Expert & Formateur)"]
+        },
+        "portfolio": {
+          "label": "Portfolio / GitHub",
+          "placeholder": "https://github.com/…"
+        },
+        "linkedin": {
+          "label": "Profil LinkedIn",
+          "placeholder": "https://linkedin.com/in/…"
+        },
+        "summary": {
+          "label": "Résumé professionnel",
+          "placeholder": "Parlez-nous de votre expérience, de vos compétences et de ce que vous apportez à l'équipe…"
+        }
+      },
+      "roles": [
+        "Développeur Web (Full-Stack)",
+        "Développeur Web (Front-End)",
+        "Développeur Web (Back-End)",
+        "Développeur d'applications",
+        "Médias sociaux",
+        "Marketing",
+        "Testeur d'intrusion (Cybersécurité)",
+        "Designer Graphique",
+        "Designer UI/UX",
+        "Ventes"
+      ],
+      "notice": {
+        "title": "Après avoir soumis, vous serez invité à envoyer par email votre",
+        "cv": "CV",
+        "and": "et",
+        "id": "Carte d'identité nationale (recto/verso)",
+        "to": "à",
+        "extra": "Nous vous fournirons un brouillon d'email pré-rempli — un clic pour l'envoyer. (veuillez envoyer depuis votre email dans le CV et inclure toutes les notes supplémentaires dans le corps de l'email)"
+      },
+      "submit": "Soumettre la candidature",
+      "success": {
+        "title": "Candidature reçue",
+        "message": "Merci, {name} ! Votre candidature a été soumise. Attendez-vous à une réponse sous 3 à 5 jours ouvrables.",
+        "filesTitle": "Une dernière étape — envoyez vos fichiers",
+        "filesMessage": "Veuillez envoyer par email votre <strong>CV</strong> et votre <strong>carte d'identité nationale (recto/verso)</strong>. Utilisez votre code de référence comme objet afin que nous puissions le faire correspondre à votre candidature.",
+        "subject": "Fichiers de candidature – {ref}",
+        "button": "Ouvrir le brouillon d'email",
+        "ref": "Réf: {ref}"
+      },
+      "errors": {
+        "required": "Requis",
+        "email": "Email valide requis",
+        "phone": "Téléphone valide requis",
+        "role": "Veuillez sélectionner un rôle",
+        "expertOrTrainer": "Veuillez sélectionner Expert ou Formateur",
+        "summary": "Veuillez écrire au moins 60 caractères"
+      },
+      "charCount": "{count} / 60+ caractères"
+    }
+  },
+  "contact": {
+    "label": "Contactez-nous",
+    "title": "Nous aimerions",
+    "titleEnd": "vous entendre",
+    "subtitle": "Vous avez une question, une idée rapide ou juste envie de dire bonjour ? Envoyez-nous un message et nous vous répondrons sous un jour ouvrable.",
+    "info": {
+      "location": "Emplacement",
+      "locationValue": "Égypte · À distance dans le monde",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "name": "Votre nom",
+      "namePlaceholder": "Eyad Ashraf",
+      "email": "Adresse email",
+      "emailPlaceholder": "vous@exemple.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "De quoi s'agit-il ?",
+      "message": "Message",
+      "messagePlaceholder": "Écrivez votre message ici…",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours…",
+      "sent": "✓ Message envoyé !",
+      "projectPrompt": "Vous démarrez un nouveau projet ?",
+      "projectLink": "Utilisez notre Assistant Projet à la place →"
+    }
+  },
+  "footer": {
+    "description": "Des solutions numériques construites avec la précision des artisans anciens et la puissance de la technologie moderne. D'Égypte, pour le monde.",
+    "services": "Services",
+    "company": "Entreprise",
+    "connect": "Connectez-vous",
+    "rights": "Tous droits réservés."
+  },
+  "bot": {
+    "toggle": "Démarrer un projet",
+    "header": "Assistant Projet Tut Wonders",
+    "status": "En ligne · Réponses instantanées",
+    "placeholder": "Tapez votre message…",
+    "send": "Envoyer",
+    "welcome": "Bonjour ! 👋 Bienvenue chez Tut Wonders. Je suis là pour vous aider à lancer votre projet — je vais vous poser quelques questions pour que notre équipe puisse préparer une proposition sur mesure pour vous. Pour commencer, quel est votre nom ?",
+    "chips": {
+      "idea": "J'ai une idée de projet",
+      "website": "J'ai besoin d'un site web",
+      "app": "J'ai besoin d'une application mobile"
+    },
+    "confirm": {
+      "title": "Voici votre brief projet. Prêt à l'envoyer à l'équipe ?",
+      "brief": "Brief Projet",
+      "send": "✓ Envoyer à Tut Wonders",
+      "edit": "Modifier"
+    },
+    "success": "Votre brief projet a été envoyé à l'équipe Tut Wonders ! 🎉 Nous examinerons votre demande {service} et vous répondrons sous 24 heures. Nous avons hâte de construire quelque chose de grand ensemble.",
+    "error": "Désolé, j'ai rencontré un problème. Veuillez vérifier votre configuration de clé API ou réessayer dans un instant."
+  },
+  "language": {
+    "select": "Langue",
+    "en": "English",
+    "ar": "العربية",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ru": "Русский"
+  }
+}
