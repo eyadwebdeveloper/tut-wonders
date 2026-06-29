@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Helmet } from "react-helmet";
 import { I18nextProvider } from 'react-i18next';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import i18n from './i18n';
 import "./App.css";
 
@@ -19,8 +18,6 @@ import Apply from "./components/Apply";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import ProjectBot from "./components/ProjectBot";
-import Projects from "./components/Projects";
-import TutCarePage from "./pages/TutCarePage";
 
 /* ── Shared meta / SEO helmet ── */
 const SiteMeta = () => (
@@ -64,30 +61,6 @@ const SiteMeta = () => (
   </Helmet>
 );
 
-/* ── Main home page layout ── */
-function HomePage({ onOpenBot }) {
-  return (
-    <>
-      <Hero onOpenBot={onOpenBot} />
-      <Brand />
-      <Services />
-      <div className="divider"></div>
-      <WhyUs />
-      <div className="divider"></div>
-      <Process />
-      <div className="divider"></div>
-      <TechStack />
-      <div className="divider"></div>
-      <Projects />
-      <Testimonials />
-      <CtaBand onOpenBot={onOpenBot} />
-      <Apply />
-      <Contact />
-      <Footer />
-    </>
-  );
-}
-
 function App() {
   const [loading, setLoading] = useState(true);
   const [i18nReady, setI18nReady] = useState(i18n.isInitialized);
@@ -111,21 +84,29 @@ function App() {
 
   return (
     <I18nextProvider i18n={i18n}>
-      <BrowserRouter>
-        <SiteMeta />
-        <Loader loading={loading} />
+      <SiteMeta />
+      <Loader loading={loading} />
 
-        <div className="app" style={{ opacity: loading ? 0 : 1, transition: "opacity 0.6s ease" }}>
-          <Navbar onOpenBot={handleOpenBot} />
+      <div className="app" style={{ opacity: loading ? 0 : 1, transition: "opacity 0.6s ease" }}>
+        <Navbar onOpenBot={handleOpenBot} />
+        <Hero onOpenBot={handleOpenBot} />
+        <Brand />
+        <Services />
+        <div className="divider"></div>
+        <WhyUs />
+        <div className="divider"></div>
+        <Process />
+        <div className="divider"></div>
+        <TechStack />
+        <div className="divider"></div>
+        <Testimonials />
+        <CtaBand onOpenBot={handleOpenBot} />
+        <Apply />
+        <Contact />
+        <Footer />
+      </div>
 
-          <Routes>
-            <Route path="/" element={<HomePage onOpenBot={handleOpenBot} />} />
-            <Route path="/tutcare" element={<TutCarePage />} />
-          </Routes>
-        </div>
-
-        <ProjectBot ref={botRef} />
-      </BrowserRouter>
+      <ProjectBot ref={botRef} />
     </I18nextProvider>
   );
 }
