@@ -1,0 +1,666 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "À propos",
+    "process": "Processus",
+    "technologies": "Technologies",
+    "careers": "Carrières",
+    "getStarted": "Commencer"
+  },
+  "hero": {
+    "eyebrow": "L'excellence numérique d'Égypte vers le monde",
+    "title": "Transformer les idées",
+    "titleAccent": "En réalité",
+    "titleEnd": "numérique",
+    "description": "Applications mobiles, sites web, solutions d'IA et expériences numériques — conçues avec précision et construites pour développer votre entreprise.",
+    "cta": "Démarrer votre projet",
+    "viewWork": "Voir nos réalisations"
+  },
+  "brand": {
+    "items": ["Développement Web", "Applications Mobiles", "Design UI/UX", "E-Commerce", "Stratégie Digitale", "Maintenance", "React", "Flutter", "Laravel"]
+  },
+  "services": {
+    "label": "Ce que nous faisons",
+    "title": "Des services qui",
+    "titleEnd": "font la différence",
+    "subtitle": "De la stratégie au lancement, nous livrons des produits numériques construits pour la performance, l'évolutivité et un impact durable. Chaque pixel. Chaque interaction. Chaque ligne de code.",
+    "items": {
+      "web": {
+        "title": "Développement Web",
+        "desc": "Sites web et applications web haute performance construits avec des frameworks modernes. Des solutions rapides, sécurisées et évolutives adaptées à vos besoins."
+      },
+      "mobile": {
+        "title": "Applications Mobiles",
+        "desc": "Applications mobiles natives et multiplateformes pour iOS et Android. Fluides, intuitives et conçues pour ravir les utilisateurs dès le premier contact."
+      },
+      "design": {
+        "title": "Design UI/UX",
+        "desc": "Interfaces centrées sur l'utilisateur qui équilibrent beauté et fonctionnalité. Nous concevons des expériences qui semblent naturelles et convertissent les visiteurs en clients."
+      },
+      "ai": {
+        "title": "Solutions IA",
+        "desc": "Automatisation intelligente, systèmes intelligents et fonctionnalités alimentées par l'IA qui rationalisent les opérations et débloquent de nouvelles possibilités pour votre entreprise."
+      },
+      "custom": {
+        "title": "Logiciels sur Mesure",
+        "desc": "Solutions logicielles adaptées à vos workflows exacts. Des outils internes aux plateformes complètes — conçues pour l'évolutivité et la longévité."
+      },
+      "strategy": {
+        "title": "Transformation Digitale",
+        "desc": "Feuilles de route, audits et conseil en transformation digitale. Nous vous aidons à prendre des décisions éclairées sur vos investissements technologiques."
+      },
+      "ecommerce": {
+        "title": "E-Commerce",
+        "desc": "Boutiques en ligne conçues pour vendre. Nous construisons et optimisons des plateformes e-commerce pour les conversions, la performance et des parcours d'achat fluides."
+      },
+      "shield": {
+        "title": "Maintenance & Support",
+        "desc": "Votre produit a besoin de soins continus. Nous offrons une surveillance proactive, des mises à jour et un support technique pour que votre présence numérique soit toujours performante."
+      }
+    }
+  },
+  "why": {
+    "label": "Pourquoi Tut Wonders",
+    "title": "Conçu avec un objectif,",
+    "titleEnd": "Livré avec fierté",
+    "stats": {
+      "years": "Années à bâtir l'excellence numérique",
+      "projects": "Projets livrés",
+      "techs": "Technologies",
+      "custom": "Solutions sur mesure",
+      "location": "Basé en Égypte · À distance dans le monde"
+    },
+    "features": {
+      "innovation": {
+        "title": "L'innovation d'abord",
+        "desc": "Nous restons en avance sur la courbe — intégrant l'IA, les frameworks modernes et les technologies émergentes pour donner à votre produit un avantage compétitif réel."
+      },
+      "accessibility": {
+        "title": "Accessibilité intégrée",
+        "desc": "La technologie doit servir tout le monde. L'accessibilité et le design inclusif sont au cœur de chaque produit que nous construisons — pas une réflexion après coup."
+      },
+      "ux": {
+        "title": "Expérience Utilisateur",
+        "desc": "Des interfaces magnifiques qui convertissent vraiment. Nous concevons pour de vrais humains — en cartographiant chaque point de contact pour la joie, la clarté et l'action."
+      },
+      "scalability": {
+        "title": "Évolutivité & Performance",
+        "desc": "Une architecture de code qui grandit avec vous. Vitesse, fiabilité et structure propre dès le premier jour — prête pour votre prochain 10x."
+      }
+    },
+    "founder": {
+      "quote": "Je crois que la technologie devrait faire plus que simplement alimenter les entreprises — elle devrait résoudre des problèmes significatifs et créer un impact durable. Cette conviction est ce qui motive tout ce que nous construisons chez Tut Wonders.",
+      "name": "Michael Fathy",
+      "title": "PDG & Fondateur, Tut Wonders"
+    }
+  },
+  "process": {
+    "label": "Comment nous travaillons",
+    "title": "De l'idée au lancement,",
+    "titleEnd": "Étape par étape",
+    "subtitle": "Un processus transparent et collaboratif conçu pour réussir votre projet — du premier coup.",
+    "steps": {
+      "discovery": {
+        "title": "Découverte",
+        "desc": "Nous écoutons profondément pour comprendre vos objectifs, vos utilisateurs et vos contraintes. Le bon briefing façonne tout ce qui suit."
+      },
+      "strategy": {
+        "title": "Stratégie & Design",
+        "desc": "Wireframes, prototypes et une direction visuelle qui aligne votre marque avec les besoins des utilisateurs."
+      },
+      "development": {
+        "title": "Développement",
+        "desc": "Code propre et évolutif. Sprints agiles avec des points de contrôle réguliers pour que vous soyez toujours informé."
+      },
+      "testing": {
+        "title": "Tests & Assurance Qualité",
+        "desc": "Tests multi-appareils, audits de performance et contrôles de sécurité avant tout lancement."
+      },
+      "launch": {
+        "title": "Lancement & Croissance",
+        "desc": "Déploiement fluide, support d'intégration et maintenance continue pour vous garder en avance."
+      }
+    }
+  },
+  "stack": {
+    "label": "Technologies",
+    "title": "Construit avec les meilleurs outils"
+  },
+  "testimonials": {
+    "label": "Témoignages clients",
+    "title": "Ce que nos clients disent",
+    "items": [
+      {
+        "text": "Tut Wonders a complètement transformé notre présence numérique. Le site qu'ils ont construit est rapide, magnifique, et nos conversions ont doublé depuis le lancement.",
+        "name": "Sara El-Sayed",
+        "role": "PDG, Startup du Caire"
+      },
+      {
+        "text": "Une équipe professionnelle avec une réelle attention aux détails. Notre application mobile a été livrée à temps et la qualité du code est excellente.",
+        "name": "Mohammed Ali",
+        "role": "Chef de produit, Société Tech"
+      },
+      {
+        "text": "Ils ont compris notre marque dès le premier appel. Le travail de design UI/UX qu'ils ont livré était comme de la magie — nos utilisateurs l'adorent.",
+        "name": "Lina Karim",
+        "role": "Fondatrice, Marque de Mode"
+      },
+      {
+        "text": "Une communication exceptionnelle tout au long du projet. Ils nous ont donné des conseils honnêtes et ont résisté quand nos idées n'étaient pas optimales. C'est rare.",
+        "name": "Ahmed Farouk",
+        "role": "Directeur, Boutique E-Commerce"
+      },
+      {
+        "text": "Le plan de maintenance qu'ils ont mis en place nous a fait gagner d'innombrables heures. Les problèmes sont résolus avant même que nous les remarquions.",
+        "name": "Yasmine Nasser",
+        "role": "COO, Agence Média"
+      },
+      {
+        "text": "Des développeurs hautement qualifiés qui se soucient vraiment de votre résultat commercial, pas seulement de l'exécution du périmètre. Un véritable partenaire.",
+        "name": "Omar Hassan",
+        "role": "Entrepreneur"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à construire quelque chose d'extraordinaire ?",
+    "subtitle": "Transformons votre vision en une merveille numérique.",
+    "button": "Démarrer votre projet"
+  },
+  "apply": {
+    "badge": "Carrières chez Tut Wonders",
+    "title": "Construisez le futur",
+    "titleEnd": "Avec nous",
+    "subtitle": "Nous recherchons des personnes talentueuses qui aiment ce qu'elles font. Si c'est vous, parlez-nous de vous.",
+    "sidebar": {
+      "perks": {
+        "flexible": {
+          "title": "Horaires flexibles",
+          "desc": "Culture remote-first avec communication asynchrone et horaires flexibles."
+        },
+        "impact": {
+          "title": "Projets réels, impact réel",
+          "desc": "Lancez des produits utilisés par des milliers de personnes — pas des exercices secondaires ou des démos factices."
+        },
+        "team": {
+          "title": "Équipe collaborative",
+          "desc": "Travaillez aux côtés de designers, développeurs et stratèges qui se soucient du savoir-faire."
+        }
+      },
+      "roles": "Postes ouverts"
+    },
+    "form": {
+      "title": "Formulaire de candidature",
+      "sections": {
+        "personal": "Coordonnées personnelles",
+        "role": "Rôle et expérience",
+        "attachments": "Pièces jointes"
+      },
+      "fields": {
+        "firstName": {
+          "label": "Prénom",
+          "placeholder": "Ahmed"
+        },
+        "lastName": {
+          "label": "Nom",
+          "placeholder": "Mohamed"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "vous@exemple.com"
+        },
+        "phone": {
+          "label": "Téléphone / WhatsApp",
+          "placeholder": "+20 10 1234 5678"
+        },
+        "role": {
+          "label": "Poste recherché",
+          "placeholder": "Sélectionnez un rôle…"
+        },
+        "expertOrTrainer": {
+          "label": "Expert ou Formateur ?",
+          "placeholder": "Choisissez…",
+          "options": ["Expert", "Formateur", "Les deux (Expert & Formateur)"]
+        },
+        "portfolio": {
+          "label": "Portfolio / GitHub",
+          "placeholder": "https://github.com/…"
+        },
+        "linkedin": {
+          "label": "Profil LinkedIn",
+          "placeholder": "https://linkedin.com/in/…"
+        },
+        "summary": {
+          "label": "Résumé professionnel",
+          "placeholder": "Parlez-nous de votre expérience, de vos compétences et de ce que vous apportez à l'équipe…"
+        }
+      },
+      "roles": [
+        "Développeur Web (Full-Stack)",
+        "Développeur Web (Front-End)",
+        "Développeur Web (Back-End)",
+        "Développeur d'applications",
+        "Médias sociaux",
+        "Marketing",
+        "Testeur d'intrusion (Cybersécurité)",
+        "Designer Graphique",
+        "Designer UI/UX",
+        "Ventes"
+      ],
+      "notice": {
+        "title": "Après avoir soumis, vous serez invité à envoyer par email votre",
+        "cv": "CV",
+        "and": "et",
+        "id": "Carte d'identité nationale (recto/verso)",
+        "to": "à",
+        "extra": "Nous vous fournirons un brouillon d'email pré-rempli — un clic pour l'envoyer. (veuillez envoyer depuis votre email dans le CV et inclure toutes les notes supplémentaires dans le corps de l'email)"
+      },
+      "submit": "Soumettre la candidature",
+      "success": {
+        "title": "Candidature reçue",
+        "message": "Merci, {name} ! Votre candidature a été soumise. Attendez-vous à une réponse sous 3 à 5 jours ouvrables.",
+        "filesTitle": "Une dernière étape — envoyez vos fichiers",
+        "filesMessage": "Veuillez envoyer par email votre <strong>CV</strong> et votre <strong>carte d'identité nationale (recto/verso)</strong>. Utilisez votre code de référence comme objet afin que nous puissions le faire correspondre à votre candidature.",
+        "subject": "Fichiers de candidature – {ref}",
+        "button": "Ouvrir le brouillon d'email",
+        "ref": "Réf: {ref}"
+      },
+      "errors": {
+        "required": "Requis",
+        "email": "Email valide requis",
+        "phone": "Téléphone valide requis",
+        "role": "Veuillez sélectionner un rôle",
+        "expertOrTrainer": "Veuillez sélectionner Expert ou Formateur",
+        "summary": "Veuillez écrire au moins 60 caractères"
+      },
+      "charCount": "{count} / 60+ caractères"
+    }
+  },
+  "contact": {
+    "label": "Contactez-nous",
+    "title": "Nous aimerions",
+    "titleEnd": "vous entendre",
+    "subtitle": "Vous avez une question, une idée rapide ou juste envie de dire bonjour ? Envoyez-nous un message et nous vous répondrons sous un jour ouvrable.",
+    "info": {
+      "location": "Emplacement",
+      "locationValue": "Égypte · À distance dans le monde",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "name": "Votre nom",
+      "namePlaceholder": "Eyad Ashraf",
+      "email": "Adresse email",
+      "emailPlaceholder": "vous@exemple.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "De quoi s'agit-il ?",
+      "message": "Message",
+      "messagePlaceholder": "Écrivez votre message ici…",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours…",
+      "sent": "✓ Message envoyé !",
+      "projectPrompt": "Vous démarrez un nouveau projet ?",
+      "projectLink": "Utilisez notre Assistant Projet à la place →"
+    }
+  },
+  "footer": {
+    "description": "Des solutions numériques construites avec la précision des artisans anciens et la puissance de la technologie moderne. D'Égypte, pour le monde.",
+    "services": "Services",
+    "company": "Entreprise",
+    "connect": "Connectez-vous",
+    "rights": "Tous droits réservés.",
+    "links": {
+      "about": "À propos",
+      "process": "Notre processus",
+      "technologies": "Technologies",
+      "reviews": "Avis",
+      "contact": "Contact",
+      "careers": "Carrières"
+    }
+  },
+  "bot": {
+    "toggle": "Démarrer un projet",
+    "header": "Assistant Projet Tut Wonders",
+    "status": "En ligne · Réponses instantanées",
+    "placeholder": "Tapez votre message…",
+    "send": "Envoyer",
+    "welcome": "Bonjour ! 👋 Bienvenue chez Tut Wonders. Je suis là pour vous aider à lancer votre projet — je vais vous poser quelques questions pour que notre équipe puisse préparer une proposition sur mesure pour vous. Pour commencer, quel est votre nom ?",
+    "chips": {
+      "idea": "J'ai une idée de projet",
+      "website": "J'ai besoin d'un site web",
+      "app": "J'ai besoin d'une application mobile"
+    },
+    "confirm": {
+      "title": "Voici votre brief projet. Prêt à l'envoyer à l'équipe ?",
+      "brief": "Brief Projet",
+      "send": "✓ Envoyer à Tut Wonders",
+      "edit": "Modifier"
+    },
+    "success": "Votre brief projet a été envoyé à l'équipe Tut Wonders ! 🎉 Nous examinerons votre demande {service} et vous répondrons sous 24 heures. Nous avons hâte de construire quelque chose de grand ensemble.",
+    "error": "Désolé, j'ai rencontré un problème. Veuillez vérifier votre configuration de clé API ou réessayer dans un instant."
+  },
+  "language": {
+    "select": "Langue",
+    "en": "English",
+    "ar": "العربية",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ru": "Русский"
+  },
+  "tutcare": {
+    "backLink": "Retour à l'Accueil",
+    "liveBadge": "Actif et en Développement",
+    "builtByBadge": "Développé par TutWonders",
+    "heroTitle": "TutCare — L'IA pour Tous",
+    "heroSubtitle": "Une plateforme d'accessibilité alimentée par l'IA qui offre aux utilisateurs aveugles, aux malvoyants et aux personnes handicapées les outils pour naviguer dans le monde de manière autonome — grâce à l'interaction vocale intelligente, la reconnaissance en temps réel et un réseau d'aides de confiance.",
+    "appStore": "App Store — Bientôt Disponible",
+    "googlePlay": "Google Play — Bientôt Disponible",
+    "exploreFeatures": "Explorer les Fonctionnalités",
+    "mockupGreeting": "Bonjour",
+    "mockupGreetingName": "Bon retour",
+    "nearbyHelpers": "Aides à Proximité",
+    "requestHelper": "Demander un Aide",
+    "aboutLabel": "À Propos de TutCare",
+    "aboutTitle": "Conçu pour Supprimer les Barrières,",
+    "aboutTitleEnd": "Pas Seulement pour les Contourner",
+    "aboutSubtitle": "TutCare est une plateforme de mobilité accessible alimentée par l'IA développée par TutWonders. Sa mission est de donner aux personnes ayant une déficience visuelle et d'autres handicaps une véritable indépendance — pas une version simplifiée de l'expérience d'un autre, mais un accès réel et confiant au monde tel qu'il est.",
+    "missionTitle": "Notre Mission",
+    "missionText": "TutCare existe pour combler le fossé entre la technologie d'assistance et la réalité vécue. La plupart des outils d'accessibilité sont conçus comme des pensées secondaires — construits par des équipes qui n'ont jamais navigué dans un monde sans vue. Nous construisons différemment, avec les personnes que nous servons au centre de chaque décision.",
+    "visionTitle": "Notre Vision",
+    "visionText": "Un monde où le handicap n'est jamais une barrière à la technologie. Nous envisageons une IA qui s'adapte à chaque personne — et non l'inverse. TutCare est notre premier pas pour faire du logiciel intelligent et empathique la norme, pas l'exception.",
+    "problemLabel": "Le Problème",
+    "problemTitle": "Des Barrières Réelles,",
+    "problemTitleEnd": "Affrontées Chaque Jour",
+    "problemSubtitle": "Plus d'un milliard de personnes dans le monde vivent avec une forme de handicap. Pour beaucoup, les outils numériques censés les aider sont incomplets, difficiles à utiliser ou tout simplement absents.",
+    "mostUnderserved": "Les Plus Défavorisés",
+    "problem1Title": "Utilisateurs Aveugles",
+    "problem1Desc": "Les smartphones standards n'ont pas été conçus pour une utilisation sans vision. Lire du texte dans l'environnement — menus, étiquettes de produits, panneaux de rue, documents officiels — nécessite une aide constante des autres ou un matériel spécialisé coûteux que la plupart des gens ne peuvent pas se procurer.",
+    "problem1Solution": "TutCare répond à cela avec OCR, reconnaissance d'objets et guidage vocal par IA",
+    "problem2Title": "Malvoyants",
+    "problem2Desc": "Les utilisateurs malvoyants se situent entre deux mondes — ils ont une certaine vision, mais pas suffisante pour les interfaces standards. La plupart des applications offrent soit une accessibilité totale, soit rien du tout. Il y a rarement un juste milieu qui s'adapte à tout le spectre de la capacité visuelle.",
+    "problem2Solution": "TutCare s'adapte dynamiquement à chaque niveau de capacité visuelle",
+    "problem3Title": "Personnes Handicapées",
+    "problem3Desc": "Les handicaps moteurs, les différences cognitives et autres handicaps rendent les interfaces tactiles épuisantes ou impossibles. Le contrôle vocal existe mais est rarement construit avec l'accessibilité comme cas d'usage principal — c'est généralement une fonction de confort, pas une fondation.",
+    "problem3Solution": "TutCare est axé sur la voix, conçu pour un contrôle complet mains libres",
+    "featuresLabel": "Fonctionnalités Clés",
+    "featuresTitle": "Outils Intelligents,",
+    "featuresTitleEnd": "Conçus Autour de Besoins Réels",
+    "featuresSubtitle": "Chaque fonctionnalité de TutCare a été façonnée par les retours directs d'utilisateurs aveugles, d'experts en accessibilité et de défenseurs des personnes handicapées — et non par des suppositions.",
+    "features": [
+      {
+        "title": "Assistance IA",
+        "desc": "Un assistant IA contextuel qui comprend votre environnement, répond aux questions et vous guide dans les tâches grâce à une interaction vocale naturelle."
+      },
+      {
+        "title": "Navigation Vocale",
+        "desc": "Contrôle mains libres et vocal de toute l'application. Naviguez dans les menus, déclenchez des actions et interagissez avec le contenu sans jamais toucher l'écran."
+      },
+      {
+        "title": "OCR et Reconnaissance de Texte",
+        "desc": "Lisez instantanément le texte imprimé à partir de documents, panneaux, étiquettes et écrans — transformant le monde visuel en informations accessibles et parlées."
+      },
+      {
+        "title": "Reconnaissance d'Objets",
+        "desc": "Identification en temps réel des objets, personnes, couleurs et environnement par la caméra, décrits clairement et immédiatement en audio."
+      },
+      {
+        "title": "Outils d'Accessibilité",
+        "desc": "Une suite dédiée de fonctions d'assistance comprenant le grossissement, les modes haute contraste, l'intégration du lecteur d'écran et des signaux audio personnalisables."
+      },
+      {
+        "title": "Confidentialité et Sécurité",
+        "desc": "Tout traitement sur l'appareil par défaut. Vos données ne quittent jamais votre téléphone sauf si vous choisissez de les partager, gardant vos interactions entièrement privées."
+      },
+      {
+        "title": "Performance Rapide",
+        "desc": "Conçu pour des temps de réponse quasi instantanés afin que chaque interaction soit fluide, même sur les appareils bas de gamme et les connexions limitées."
+      },
+      {
+        "title": "Expérience Utilisateur Facile",
+        "desc": "Conçu de A à Z avec des spécialistes de l'accessibilité et de vrais utilisateurs, garantissant que l'interface est intuitive, quelle que soit la capacité ou le parcours technique."
+      }
+    ],
+    "howLabel": "Comment ça Marche",
+    "howTitle": "Simple par Conception",
+    "howSubtitle": "TutCare supprime la complexité de chaque étape. Que vous utilisiez l'application pour obtenir de l'aide ou que vous vous portiez volontaire pour aider les autres, le processus est clair, rapide et accessible.",
+    "asUser": "En tant qu'Utilisateur",
+    "asHelper": "En tant qu'Aide",
+    "userSteps": [
+      {
+        "title": "Télécharger et Configurer",
+        "desc": "Installez TutCare depuis l'App Store ou Google Play et complétez une intégration brève et entièrement guidée par la voix en moins de deux minutes."
+      },
+      {
+        "title": "Exprimez Votre Besoin",
+        "desc": "Dites simplement ce dont vous avez besoin — lisez cette étiquette, décrivez mon environnement ou trouvez un aide à proximité — et TutCare répond immédiatement."
+      },
+      {
+        "title": "Obtenez Une Clarté Instantanée",
+        "desc": "Recevez des retours clairs et parlés du moteur IA ou connectez-vous avec un aide vérifié pour une assistance visuelle en temps réel."
+      }
+    ],
+    "helperSteps": [
+      {
+        "title": "S'inscrire comme Aide",
+        "desc": "Inscrivez-vous, vérifiez votre identité et définissez vos disponibilités. Le processus prend quelques minutes et ne nécessite aucun équipement spécial."
+      },
+      {
+        "title": "Recevoir une Demande",
+        "desc": "Soyez notifié lorsqu'un utilisateur à proximité a besoin d'aide. Acceptez la demande et rejoignez une session sécurisée en direct en un seul tapotement."
+      },
+      {
+        "title": "Faire une Différence",
+        "desc": "Guidez les utilisateurs à travers leur environnement, lisez les informations à voix haute ou décrivez ce que vous voyez — gagnant reconnaissance et impact à chaque session."
+      }
+    ],
+    "screenshotsLabel": "Captures d'Écran",
+    "screenshotsTitle": "Voir TutCare en Action",
+    "screenshotsSubtitle": "Un aperçu de l'interface TutCare — propre, à contraste élevé et prête pour la voix. Les captures d'écran seront mises à jour à l'approche de la sortie.",
+    "screenshotPlaceholder": "Capture d'écran bientôt disponible",
+    "screenshots": [
+      { "label": "Écran d'Accueil", "desc": "Tableau de bord prêt pour la voix avec boutons d'accès rapide" },
+      { "label": "Assistant IA", "desc": "Interface IA conversationnelle avec réponse vocale naturelle" },
+      { "label": "Lecteur OCR", "desc": "Reconnaissance de texte en temps réel depuis la caméra" },
+      { "label": "Reconnaissance d'Objets", "desc": "Environnement décrit en sortie audio claire" },
+      { "label": "Session d'Aide", "desc": "Session en direct avec un aide vérifié à proximité" },
+      { "label": "Paramètres et Accessibilité", "desc": "Options de contraste, taille de texte et audio entièrement personnalisables" }
+    ],
+    "videoLabel": "Vidéo d'Introduction",
+    "videoTitle": "Regarder TutCare",
+    "videoTitleEnd": "En Utilisation Réelle",
+    "videoSubtitle": "Une démo d'introduction montrant les fonctionnalités principales de TutCare dans des scénarios quotidiens — de la lecture d'un menu de restaurant à la navigation dans un nouveau quartier. Vidéo disponible bientôt.",
+    "videoComingSoon": "Vidéo Démo — Bientôt Disponible",
+    "videoHint": "Remplacez cet espace réservé par un élément YouTube, Vimeo ou <video> hébergé lorsque vous serez prêt.",
+    "techLabel": "Stack Technologique",
+    "techTitle": "Conçu pour la Fiabilité,",
+    "techTitleEnd": "Construit pour l'Accessibilité",
+    "techSubtitle": "TutCare repose sur des technologies éprouvées et prêtes pour la production, sélectionnées pour leur performance, leur sécurité et leur résilience hors ligne.",
+    "techStack": [
+      {
+        "title": "React Native",
+        "desc": "Framework mobile multiplateforme alimentant les applications iOS et Android à partir d'une base de code unifiée."
+      },
+      {
+        "title": "TensorFlow Lite",
+        "desc": "Apprentissage automatique sur l'appareil pour la reconnaissance d'objets en temps réel et l'OCR sans dépendance au cloud."
+      },
+      {
+        "title": "Claude AI",
+        "desc": "Le modèle Claude d'Anthropic fournit l'assistant IA conversationnel, la compréhension du contexte et les réponses en langage naturel."
+      },
+      {
+        "title": "WebRTC",
+        "desc": "Vidéo et audio chiffrés pair-à-pair pour le réseau de sessions d'aide en direct."
+      },
+      {
+        "title": "Node.js",
+        "desc": "API backend légère et haute performance gérant l'authentification, la gestion des sessions et la mise en relation des aides."
+      },
+      {
+        "title": "Firebase",
+        "desc": "Base de données en temps réel et notifications push qui maintiennent les utilisateurs et les aides connectés avec une latence minimale."
+      }
+    ],
+    "reviewsLabel": "Retours Précoces",
+    "reviewsTitle": "Les Voix Qui Ont Façonné TutCare",
+    "reviews": [
+      {
+        "text": "TutCare a véritablement changé la façon dont je me déplace dans le monde. La reconnaissance d'objets est rapide, précise et la voix est naturelle — on se sent comme si on avait un compagnon connaisseur à ses côtés.",
+        "name": "Ahmed R.",
+        "role": "Utilisateur aveugle, Le Caire"
+      },
+      {
+        "text": "J'ai une basse vision et j'ai lutté avec la plupart des applications d'accessibilité. TutCare est la première qui comprend réellement le contexte. La fonction OCR lit les notes manuscrites, les étiquettes et même les panneaux de rue.",
+        "name": "Nour H.",
+        "role": "Utilisatrice malvoyante, Alexandrie"
+      },
+      {
+        "text": "En tant qu'ergothérapeute, je recommande TutCare à mes patients. Le réseau d'aides est bien conçu — les aides sont vérifiés et les sessions sont sécurisées et dignes.",
+        "name": "Dr. Layla M.",
+        "role": "Ergothérapeute"
+      },
+      {
+        "text": "Rien que l'intégration distingue TutCare. En cinq minutes après le téléchargement, mon grand-père — qui n'avait jamais utilisé de smartphone — naviguait de manière autonome avec des commandes vocales.",
+        "name": "Karim S.",
+        "role": "Soignant, Gizeh"
+      },
+      {
+        "text": "Je me suis porté volontaire comme aide et l'expérience est fluide. L'interface de session est claire, les demandes des utilisateurs sont spécifiques, et j'ai toujours le sentiment que mon temps a un impact direct.",
+        "name": "Sara T.",
+        "role": "Aide Bénévole"
+      },
+      {
+        "text": "TutCare respecte la vie privée comme aucun autre outil d'accessibilité. Le traitement IA sur l'appareil n'est pas une affirmation marketing ici — c'est ainsi que l'application fonctionne réellement par défaut.",
+        "name": "Omar F.",
+        "role": "Défenseur de l'Accessibilité"
+      }
+    ],
+    "pricingLabel": "Tarifs",
+    "pricingTitle": "Accessible par Défaut,",
+    "pricingSubtitle": "Les fonctionnalités principales de TutCare sont gratuites pour toujours. Passez à l'offre supérieure pour une IA illimitée, des sessions d'aide en direct et des contrôles de confidentialité avancés.",
+    "monthly": "Mensuel",
+    "annual": "Annuel",
+    "mostPopular": "Le Plus Populaire",
+    "free": "Gratuit",
+    "mo": "/mois",
+    "getStartedFree": "Commencer Gratuitement",
+    "comingSoon": "Bientôt Disponible",
+    "plans": [
+      {
+        "name": "Gratuit",
+        "price": "0",
+        "popular": false,
+        "desc": "Outils d'accessibilité de base pour une utilisation quotidienne indépendante.",
+        "features": [
+          "Navigation Vocale",
+          "Reconnaissance de Texte OCR",
+          "Reconnaissance d'Objets (50/jour)",
+          "Assistant IA (de base)",
+          "Support du Lecteur d'Écran"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "9",
+        "popular": true,
+        "desc": "Puissance IA complète et accès illimité pour les utilisateurs actifs.",
+        "features": [
+          "Tout dans Gratuit",
+          "Assistance IA Illimitée",
+          "Sessions d'Aide en Direct (10/mois)",
+          "Temps de Réponse Prioritaire",
+          "Mode Hors Ligne",
+          "Contrôles de Confidentialité Avancés"
+        ]
+      },
+      {
+        "name": "Entreprise",
+        "price": "29",
+        "popular": false,
+        "desc": "Déploiement personnalisé pour organisations, écoles et institutions.",
+        "features": [
+          "Tout dans Pro",
+          "Sessions d'Aide Illimitées",
+          "Intégrations Personnalisées",
+          "Support Dédié",
+          "Analytique d'Utilisation",
+          "Gestion Multi-utilisateurs"
+        ]
+      }
+    ],
+    "faqLabel": "FAQ",
+    "faqTitle": "Questions Fréquentes",
+    "faqs": [
+      {
+        "q": "À qui s'adresse TutCare ?",
+        "a": "TutCare est conçu pour les utilisateurs aveugles, les malvoyants et toute personne ayant un handicap physique ou cognitif rendant les interfaces standard des smartphones difficiles à utiliser. Il est également utilisé par les soignants, les aides et les organisations qui soutiennent les personnes handicapées."
+      },
+      {
+        "q": "TutCare nécessite-t-il une connexion Internet ?",
+        "a": "Les fonctionnalités principales comme la navigation vocale et la reconnaissance d'objets de base fonctionnent hors ligne. L'assistance IA avancée et les sessions d'aide en direct nécessitent une connexion active. Les abonnés Pro bénéficient d'un mode hors ligne étendu."
+      },
+      {
+        "q": "Comment les aides sont-ils vérifiés ?",
+        "a": "Tous les aides passent par un processus de vérification d'identité avant d'être approuvés. Les sessions sont chiffrées de bout en bout et les utilisateurs peuvent évaluer chaque interaction, maintenant une communauté fiable et responsable."
+      },
+      {
+        "q": "TutCare est-il disponible en français ?",
+        "a": "Oui. TutCare prend en charge le français avec reconnaissance vocale en français et synthèse vocale naturelle, le rendant entièrement accessible aux utilisateurs francophones."
+      },
+      {
+        "q": "Quelles plateformes TutCare prend-il en charge ?",
+        "a": "TutCare est disponible sur iOS et Android. Un outil web compagnon pour les organisations et les soignants est actuellement en développement."
+      },
+      {
+        "q": "Qui a développé TutCare ?",
+        "a": "TutCare est développé et maintenu par TutWonders, un studio d'innovation numérique spécialisé dans les logiciels alimentés par l'IA et les solutions technologiques accessibles."
+      }
+    ],
+    "ctaTitle": "Télécharger TutCare",
+    "ctaSubtitle": "TutCare est actuellement en développement final. Rejoignez la liste d'attente ou revenez bientôt pour être parmi les premiers à l'expérimenter sur iOS et Android.",
+    "visitWebsite": "Visitez tutcare.com",
+    "ctaNote": "TutCare est un produit TutWonders — construit avec soin, conçu pour tous.",
+    "mockupBtns": ["Lire le Texte", "Décrire la Scène", "Trouver un Aide", "Naviguer"],
+    "stats": [
+      { "val": "50K+", "lbl": "Utilisateurs Actifs" },
+      { "val": "4.9★", "lbl": "Note de l'App" },
+      { "val": "120+", "lbl": "Pays" },
+      { "val": "99%", "lbl": "Disponibilité" }
+    ],
+  "navBtn": "TUT CARE",
+  "footerTitle": "TUT CARE",
+  "footerDesc": "Application d'entraide communautaire — bientôt disponible"
+  },
+  "projects": {
+    "label": "Nos réalisations",
+    "title": "Construit par nous,",
+    "titleEnd": "utilisé par des milliers",
+    "subtitle": "Nous ne construisons pas seulement pour les clients — nous lançons également nos propres produits. TUT CARE est une application en direct créée par l'équipe Tut Wonders, résolvant de vrais problèmes pour de vraies personnes.",
+    "tutcare": {
+      "live": "En direct",
+      "greeting": "Bonjour",
+      "mockupBtns": ["Lire le texte", "Scanner", "Obtenir de l'aide", "Naviguer"],
+      "nearbyHelpers": "Assistants à proximité",
+      "helpers": [
+        { "initials": "K", "name": "Karim A.", "dist": "0.3 km" },
+        { "initials": "S", "name": "Sara M.", "dist": "0.6 km" }
+      ],
+      "requestBtn": "Demander un assistant",
+      "activeUsers": "Utilisateurs actifs",
+      "builtBy": "Créé par Tut Wonders",
+      "typeTag": "Application mobile · Accessibilité",
+      "tagline": "Des soins qui vont partout avec vous",
+      "desc": "TUT CARE aide les utilisateurs malvoyants et les personnes ayant des difficultés de mobilité à vivre plus indépendamment. Il combine la lecture de documents par synthèse vocale alimentée par l'IA avec un réseau d'assistants humains à la demande — connectant les utilisateurs à des assistants vérifiés à proximité pour une mobilité assistée sécurisée en temps réel. Disponible sur iOS et Android, servant plus de 12 villes en Égypte.",
+      "stats": [
+        { "val": "50K+", "lbl": "Utilisateurs actifs" },
+        { "val": "3K+", "lbl": "Assistants" },
+        { "val": "98%", "lbl": "Satisfaction" },
+        { "val": "12+", "lbl": "Villes" }
+      ],
+      "visitBtn": "Visiter le site",
+      "learnMoreBtn": "En savoir plus",
+      "downloadBtn": "Télécharger l'application"
+    }
+  }
+}
